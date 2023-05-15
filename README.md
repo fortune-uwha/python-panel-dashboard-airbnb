@@ -43,8 +43,11 @@ The Airbnb dataset used in this projectis gotten from kaggle. It includes inform
 Once you have the dataset, update the file path in the project script or notebook accordingly.
 
 ## Dashboard
-Sketch of Airbnb Visualisation:
-![Project Screenshot](images/sketch_airbnb.png)
+### Sketch of Airbnb Visualisation:
+![Project Sketch](images/sketch_airbnb.png)
+
+### Result⭐:
+![Project Screenshot](images/airbnb_project.gif)
 
 
 ## Usage
