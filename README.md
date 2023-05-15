@@ -8,6 +8,7 @@ An interactive dashboard in Python from Jupyter Notebook using Open source visua
 - [Data](#data)
 - [Dashboard](#dashboard)
 - [Usage](#usage)
+- [Acknowledgement](#acknowledgement)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -46,7 +47,6 @@ Sketch of Airbnb Visualisation:
 ![Project Screenshot](python_dash/share/sketch_airbnb.png)
 
 
-
 ## Usage
 
 To use the project, follow these steps:
@@ -59,6 +59,8 @@ To use the project, follow these steps:
 ```terminal
 panel serve Interactive_dashboard.ipynb
 ```
+## Acknowledgement
+This project was inspired by the work and ideas of [Thu-Vu92](https://www.youtube.com/watch?v=uhxiXOTKzfs&t=26s)
 
 ## Contributing
 
