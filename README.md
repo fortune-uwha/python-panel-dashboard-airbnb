@@ -44,7 +44,7 @@ Once you have the dataset, update the file path in the project script or noteboo
 
 ## Dashboard
 Sketch of Airbnb Visualisation:
-![Project Screenshot](python_dash/share/sketch_airbnb.png)
+![Project Screenshot](images/sketch_airbnb.png)
 
 
 ## Usage
@@ -57,7 +57,7 @@ To use the project, follow these steps:
 4. Explore the visualizations and interact with the filters to analyze different aspects of the Airbnb data.
 5. To serve the dashboard locally, use the command:
 ```terminal
-panel serve Interactive_dashboard.ipynb
+panel serve airbnb.ipynb
 ```
 ## Acknowledgement
 This project was inspired by the work and ideas of [Thu-Vu92](https://www.youtube.com/watch?v=uhxiXOTKzfs&t=26s)
