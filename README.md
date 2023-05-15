@@ -44,7 +44,7 @@ Once you have the dataset, update the file path in the project script or noteboo
 
 ## Dashboard
 Sketch of Airbnb Visualisation:
-![Project Screenshot](python_dash/share/sketch_airbnb.png)
+![Project Screenshot](images/sketch_airbnb.png)
 
 
 ## Usage
