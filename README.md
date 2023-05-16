@@ -21,7 +21,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies (see the [Dependencies](#dependencies) section for details).
-3. Obtain the Airbnb dataset for New York City (see the [Data](#data) section for details).
+3. Get the Airbnb dataset for New York City (see the [Data](#data) section for details).
 4. Run the project script or notebook to generate visualizations and explore the data.
 
 ## Dependencies
