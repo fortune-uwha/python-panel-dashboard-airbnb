@@ -21,7 +21,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies (see the [Dependencies](#dependencies) section for details).
-3. Obtain the Airbnb dataset for New York City (see the [Data](#data) section for details).
+3. Get the Airbnb dataset for New York City (see the [Data](#data) section for details).
 4. Run the project script or notebook to generate visualizations and explore the data.
 
 ## Dependencies
@@ -43,8 +43,11 @@ The Airbnb dataset used in this projectis gotten from kaggle. It includes inform
 Once you have the dataset, update the file path in the project script or notebook accordingly.
 
 ## Dashboard
-Sketch of Airbnb Visualisation:
-![Project Screenshot](images/sketch_airbnb.png)
+### Sketch of Airbnb Visualisation:
+![Project Sketch](images/sketch_airbnb.png)
+
+### Result⭐:
+![Project Screenshot](images/airbnb_project.gif)
 
 
 ## Usage
@@ -60,7 +63,7 @@ To use the project, follow these steps:
 panel serve airbnb.ipynb
 ```
 ## Acknowledgement
-This project was inspired by the work and ideas of [Thu-Vu92](https://www.youtube.com/watch?v=uhxiXOTKzfs&t=26s)
+This project was inspired by the work and ideas of [Thu-Vu92](https://github.com/thu-vu92)
 
 ## Contributing
 
