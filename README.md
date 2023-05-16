@@ -47,7 +47,7 @@ Once you have the dataset, update the file path in the project script or noteboo
 ![Project Sketch](images/sketch_airbnb.png)
 
 ### Result⭐:
-![Project Screenshot](images/airbnb_project.gif)
+![Project Screenshot](images/airbnb_analysis.gif)
 
 
 ## Usage
